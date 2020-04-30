@@ -13,7 +13,10 @@ require_once('../../conf/conf.php');
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <base href=<?php echo BASE_URL_DIR; ?>>
-    <title>Ensino Fundamental ─ Educação Conect@da </title>
+
+    <title>Ensino Fundamental ─ Secretaria de Educação contra o COVID-19</title>
+
+    <link rel="shortcut icon" href="img/logo.ico">
 
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
     <link rel="stylesheet" href="css/pmq.css">
@@ -43,11 +46,11 @@ require_once('../../conf/conf.php');
             <h4 class="pmq-brand-font pmq-text-red">Ensino Fundamental</h4>
             <hr class="my-2">
             <p class="lead">
-                <a class="btn btn-primary btn-lg my-1" href="Jumbo action link" role="button">1º Ano</a>
-                <a class="btn btn-primary btn-lg my-1" href="Jumbo action link" role="button">2º Ano</a>
-                <a class="btn btn-primary btn-lg my-1" href="Jumbo action link" role="button">3º Ano</a>
-                <a class="btn btn-primary btn-lg my-1" href="Jumbo action link" role="button">4º Ano</a>
-                <a class="btn btn-primary btn-lg my-1" href="Jumbo action link" role="button">5º Ano</a>
+                <a class="btn btn-primary btn-lg my-1" href="ensino-fundamental/1-ano.php" role="button">1º Ano</a>
+                <a class="btn btn-primary btn-lg my-1" href="ensino-fundamental/2-ano.php" role="button">2º Ano</a>
+                <a class="btn btn-primary btn-lg my-1" href="ensino-fundamental/3-ano.php" role="button">3º Ano</a>
+                <a class="btn btn-primary btn-lg my-1" href="ensino-fundamental/4-ano.php" role="button">4º Ano</a>
+                <a class="btn btn-primary btn-lg my-1" href="ensino-fundamental/5-ano.php" role="button">5º Ano</a>
             </p>
         </div>
     </div>

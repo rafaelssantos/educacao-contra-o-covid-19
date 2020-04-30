@@ -14,7 +14,9 @@ require_once('../../conf/conf.php');
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <base href=<?php echo BASE_URL_DIR; ?>>
 
-    <title>Educação Infantil ─ Educação Conect@da </title>
+    <title>Educação Infantil ─ Escola Conect@da </title>
+
+    <link rel="shortcut icon" href="img/logo.ico">
 
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
     <link rel="stylesheet" href="css/pmq.css">
@@ -41,7 +43,7 @@ require_once('../../conf/conf.php');
 
 <div class="jumbotron jumbotron-fluid m-0 flex-grow-1">
         <div class="container">
-            <h4 class="pmq-brand-font pmq-text-red">Ensino Fundamental</h4>
+            <h4 class="pmq-brand-font pmq-text-red">Educação Infantil</h4>
             <hr class="my-2">
             <p class="lead">
                 <a class="btn btn-primary btn-lg my-1" href="Jumbo action link" role="button">Creche</a>

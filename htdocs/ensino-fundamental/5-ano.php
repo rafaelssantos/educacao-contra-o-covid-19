@@ -1,6 +1,6 @@
 <!-- CONFIG ---------------- -->
 <?php
-include_once('../conf/conf.php');
+require_once('../../conf/conf.php');
 ?>
 <!-- ----------------------- -->
 
@@ -14,7 +14,7 @@ include_once('../conf/conf.php');
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <base href=<?php echo BASE_URL_DIR; ?>>
 
-    <title>Home ─ Secretaria de Educação contra o COVID-19</title>
+    <title>5° Ano Ensino Fundamental ─ Secretaria de Educação contra o COVID-19</title>
 
     <link rel="shortcut icon" href="img/logo.ico">
 
@@ -35,7 +35,7 @@ include_once('../conf/conf.php');
     ?>
 
     <script>
-        $("h1, h2, p").addClass("blue");
+        $("#nav-link-ensino-fundamental").addClass("active");
     </script>
 
 
@@ -43,16 +43,8 @@ include_once('../conf/conf.php');
 
     <div class="jumbotron jumbotron-fluid m-0 flex-grow-1">
         <div class="container">
-            <h1 class="display-4 pmq-brand-font pmq-text-red">Secretaria de Educação contra o COVID-19</h1>
-            <p class="lead">Portal educacional da Prefeitura Municipal de Quatá com atividades escolares para o período de quarentena devido à pandemia de COVID-19.</p>
+            <h4 class="pmq-brand-font pmq-text-red">Atividades do 5º Ano ─ Ensino Fundamental</h4>
             <hr class="my-2">
-            <p class="lead">
-                <a class="btn btn-primary btn-lg my-1" href="educacao-infantil/" role="button">Educação Infantil</a>
-                <a class="btn btn-primary btn-lg my-1" href="ensino-fundamental/" role="button">Ensino Fundamental</a>
-                <a class="btn btn-primary btn-lg my-1" href="aee/" role="button">AEE</a>
-
-
-            </p>
         </div>
     </div>
 
