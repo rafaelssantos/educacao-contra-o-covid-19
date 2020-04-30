@@ -1,6 +1,6 @@
 <!-- CONFIG ---------------- -->
 <?php
-include_once('../conf/conf.php');
+require_once('../../conf/conf.php');
 ?>
 <!-- ----------------------- -->
 
@@ -12,6 +12,8 @@ include_once('../conf/conf.php');
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <base href=<?php echo BASE_URL_DIR; ?>>
+
     <title>Educação Infantil ─ Educação Conect@da </title>
 
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
@@ -37,14 +39,14 @@ include_once('../conf/conf.php');
 
 
 
-    <div class="jumbotron jumbotron-fluid m-0 flex-grow-1">
+<div class="jumbotron jumbotron-fluid m-0 flex-grow-1">
         <div class="container">
-            <h1 class="display-5 pmq-brand-font pmq-text-red">Educação Infantil</h1>
+            <h4 class="pmq-brand-font pmq-text-red">Ensino Fundamental</h4>
             <hr class="my-2">
             <p class="lead">
-                <a class="btn btn-primary btn-lg" href="Jumbo action link" role="button">Educação Infantil</a>
-                <a class="btn btn-primary btn-lg" href="Jumbo action link" role="button">Ensino Fundamental</a>
-
+                <a class="btn btn-primary btn-lg my-1" href="Jumbo action link" role="button">Creche</a>
+                <a class="btn btn-primary btn-lg my-1" href="Jumbo action link" role="button">Pré I</a>
+                <a class="btn btn-primary btn-lg my-1" href="Jumbo action link" role="button">Pré II</a>
             </p>
         </div>
     </div>
