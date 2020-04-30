@@ -20,6 +20,7 @@ include_once('../conf/conf.php');
     <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+    <script src="https://kit.fontawesome.com/8cd927dbc4.js" crossorigin="anonymous"></script>
 </head>
 
 
@@ -36,22 +37,29 @@ include_once('../conf/conf.php');
             <hr class="my-2">
             <p>Acesso às atividades:</p>
             <p class="lead">
-                <a class="btn btn-primary btn-lg" href="Jumbo action link" role="button">Jumbo action name</a>
+                <a class="btn btn-primary btn-lg" href="Jumbo action link" role="button">Educação Infantil</a>
+                <a class="btn btn-primary btn-lg" href="Jumbo action link" role="button">Ensino Fundamental</a>
+
             </p>
         </div>
     </div>
 
     <footer class="container-fill flex-column m-0 pmq-bg-darkred">
 
-        <div class="container-fill text-light py-3 px-5">
+        <div class="container-fill text-light px-5">
             <div class='row'>
                 <div class="col text-justify text-sm m-2">
                     <h5 class="font-weight-bold">Secretaria de Educação</h5>
-                    <p></p>
+                    <p>
+                        Segunda-feira a sexta-feira, 7h30 às 11h30<br>
+                        <i class="fas fa-phone"></i> (18) 3366-XXXX<br>
+                        <i class="fas fa-envelope"></i> <a href="mailto:">@quata.sp.gov.br</a><br>
+                        <i class="fas fa-map-marker"></i> Rua A definir, XX
+                    </p>
 
                 </div>
-                <div class="col">
-                    <div class='container-fluid text-center'>
+                <div class="col my-auto">
+                    <div class='container text-center my-auto'>
                         <img src="img/logo-prefeitura.png" alt="" class='pmq-header-main-logo'>
                         <a class='container-fluid text-light  text-md' href="">Prefeitura Municipal de Quatá-SP</a>
                     </div>
