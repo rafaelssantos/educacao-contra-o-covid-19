@@ -47,13 +47,13 @@ require_once('../../conf/conf.php');
             <hr class="my-2">
         </div>
         <div class="container pt-3">
-           <h5>05 de maio de 2020 ─ Atividade 1</h5>
-           <div class="list-group">
-               <a href="#" class="list-group-item list-group-item-action">Português / Matemática / Ciências </a>
-               <a href="#" class="list-group-item list-group-item-action">Arte</a>
-               <a href="#" class="list-group-item list-group-item-action">Educação Física</a>
-               <a href="#" class="list-group-item list-group-item-action">Inglês</a>
-           </div>
+            <h5>Atividade 1 ─ 05 de maio de 2020</h5>
+            <div class="list-group">
+                <a href="https://forms.gle/y55JmodWFq3LNG7g8" class="list-group-item list-group-item-action">Português / Matemática / Ciências </a>
+                <a href="https://forms.gle/o2vBTWcZrwqTsba37" class="list-group-item list-group-item-action">Arte</a>
+                <a href="" class="list-group-item list-group-item-action disabled">Educação Física</a>
+                <a href="" class="list-group-item list-group-item-action disabled">Inglês</a>
+            </div>
         </div>
     </div>
 
