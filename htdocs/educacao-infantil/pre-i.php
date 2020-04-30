@@ -14,7 +14,7 @@ require_once('../../conf/conf.php');
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <base href=<?php echo BASE_URL_DIR; ?>>
 
-    <title>Educação Infantil ─ Secretaria de Educação contra o COVID-19</title>
+    <title>Pré I ─ Secretaria de Educação contra o COVID-19</title>
 
     <link rel="shortcut icon" href="img/logo.ico">
 
@@ -35,21 +35,25 @@ require_once('../../conf/conf.php');
     ?>
 
     <script>
-        $("#nav-link-educacao-infantil").addClass("active");
+        $("#nav-link-ensino-fundamental").addClass("active");
     </script>
 
 
 
 
-<div class="jumbotron jumbotron-fluid m-0 flex-grow-1">
+    <div class="jumbotron jumbotron-fluid m-0 flex-grow-1">
         <div class="container">
-            <h4 class="pmq-brand-font pmq-text-red">Educação Infantil</h4>
+            <h4 class="pmq-brand-font pmq-text-red">Atividades do Pré I ─ Educação Infantil</h4>
             <hr class="my-2">
-            <p class="lead">
-                <a class="btn btn-primary btn-lg my-1" href="educacao-infantil/creche.php" role="button">Creche</a>
-                <a class="btn btn-primary btn-lg my-1" href="educacao-infantil/pre-i.php" role="button">Pré I</a>
-                <a class="btn btn-primary btn-lg my-1" href="educacao-infantil/pre-ii.php" role="button">Pré II</a>
-            </p>
+        </div>
+        <div class="container pt-3">
+           <h5>05 de maio de 2020 ─ Atividade 1</h5>
+           <div class="list-group">
+               <a href="#" class="list-group-item list-group-item-action">Português / Matemática / Ciências </a>
+               <a href="#" class="list-group-item list-group-item-action">Arte</a>
+               <a href="#" class="list-group-item list-group-item-action">Educação Física</a>
+               <a href="#" class="list-group-item list-group-item-action">Inglês</a>
+           </div>
         </div>
     </div>
 

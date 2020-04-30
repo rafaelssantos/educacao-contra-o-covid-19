@@ -46,6 +46,15 @@ require_once('../../conf/conf.php');
             <h4 class="pmq-brand-font pmq-text-red">Atividades do 1º Ano ─ Ensino Fundamental</h4>
             <hr class="my-2">
         </div>
+        <div class="container pt-3">
+           <h5>05 de maio de 2020 ─ Atividade 1</h5>
+           <div class="list-group">
+               <a href="#" class="list-group-item list-group-item-action">Português / Matemática / Ciências </a>
+               <a href="#" class="list-group-item list-group-item-action">Arte</a>
+               <a href="#" class="list-group-item list-group-item-action">Educação Física</a>
+               <a href="#" class="list-group-item list-group-item-action">Inglês</a>
+           </div>
+        </div>
     </div>
 
     <?php
