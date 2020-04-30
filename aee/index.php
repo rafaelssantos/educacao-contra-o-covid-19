@@ -1,6 +1,6 @@
 <!-- CONFIG ---------------- -->
 <?php
-require_once('../../conf/conf.php');
+require_once('../conf/conf.php');
 ?>
 <!-- ----------------------- -->
 
@@ -43,13 +43,14 @@ require_once('../../conf/conf.php');
 
 <div class="jumbotron jumbotron-fluid m-0 flex-grow-1">
         <div class="container">
-            <h4 class="pmq-brand-font pmq-text-red">AEE</h4>
+            <h4 class="pmq-brand-font pmq-text-red">Atividades do AEE</h4>
             <hr class="my-2">
-            <p class="lead">
-                <!-- <a class="btn btn-primary btn-lg my-1" href="#" role="button">Creche</a>
-                <a class="btn btn-primary btn-lg my-1" href="#" role="button">Pré I</a>
-                <a class="btn btn-primary btn-lg my-1" href="#" role="button">Pré II</a> -->
-            </p>
+        </div>
+        <div class="container pt-3">
+            <h5>Atividade 1 ─ 04 de maio de 2020</h5>
+            <div class="list-group">
+                <a href="https://forms.gle/BE9LqAnVnhAF5SnY8" class="list-group-item list-group-item-action">Acessar atividade</a>
+            </div>
         </div>
     </div>
 

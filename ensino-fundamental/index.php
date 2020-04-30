@@ -1,6 +1,6 @@
 <!-- CONFIG ---------------- -->
 <?php
-require_once('../../conf/conf.php');
+include_once('../conf/conf.php');
 ?>
 <!-- ----------------------- -->
 

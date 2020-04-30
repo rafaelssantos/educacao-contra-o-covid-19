@@ -1,6 +1,6 @@
 <!-- CONFIG ---------------- -->
 <?php
-require_once('../../conf/conf.php');
+include_once('../conf/conf.php');
 ?>
 <!-- ----------------------- -->
 
@@ -47,12 +47,12 @@ require_once('../../conf/conf.php');
             <hr class="my-2">
         </div>
         <div class="container pt-3">
-            <h5>Atividade 1 ─ 05 de maio de 2020</h5>
+            <h5>Atividade 1 ─ 04 de maio de 2020</h5>
             <div class="list-group">
                 <a href="https://forms.gle/ycLPeFAqWGpxBRHC8" class="list-group-item list-group-item-action">Português / Matemática / Ciências </a>
                 <a href="https://forms.gle/Qu89Hzr8FWzrLyHQ6" class="list-group-item list-group-item-action">Arte</a>
-                <a href="" class="list-group-item list-group-item-action disabled">Educação Física</a>
-                <a href="" class="list-group-item list-group-item-action disabled">Inglês</a>
+                <a href="https://forms.gle/XbyTs7LCSDnkz9VV9" class="list-group-item list-group-item-action">Educação Física</a>
+                <a href="https://forms.gle/vfUAcJBJtQBLmByR8" class="list-group-item list-group-item-action">Inglês</a>
             </div>
         </div>
     </div>

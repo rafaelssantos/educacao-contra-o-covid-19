@@ -1,34 +1,30 @@
-
 @import url('https://fonts.googleapis.com/css2?family=Comic+Neue&display=swap');
-
-.pmq-brand-font{
+.pmq-brand-font {
     font-family: 'Comic Neue', cursive;
     font-weight: bold;
 }
 
-
-.pmq-bg-red{
+.pmq-bg-red {
     background: red;
 }
 
-.pmq-text-red{
+.pmq-text-red {
     color: red;
 }
 
-.pmq-text-darkred{
+.pmq-text-darkred {
     color: darkred;
 }
 
-.pmq-header-main-logo{
+.pmq-header-main-logo {
     width: 6rem;
     height: auto;
 }
 
-.pmq-bg-darkred{
+.pmq-bg-darkred {
     background: darkred;
 }
 
-
-.pmq-bg-darkerred{
+.pmq-bg-darkerred {
     background: rgb(80, 0, 0);
 }

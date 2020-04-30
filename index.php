@@ -1,6 +1,6 @@
 <!-- CONFIG ---------------- -->
 <?php
-include_once('../conf/conf.php');
+include_once('conf/conf.php');
 ?>
 <!-- ----------------------- -->
 
@@ -43,9 +43,12 @@ include_once('../conf/conf.php');
 
     <div class="jumbotron jumbotron-fluid m-0 flex-grow-1">
         <div class="container">
-            <h1 class="display-4 pmq-brand-font pmq-text-red">Secretaria de Educação contra o COVID-19</h1>
-            <p class="lead">Portal educacional da Prefeitura Municipal de Quatá com atividades escolares para o período de quarentena devido à pandemia de COVID-19.</p>
+            <h1 class="display-4 pmq-brand-font pmq-text-red">Educação contra o COVID-19</h1>
+            <p class="lead text-justify">Portal educacional da Prefeitura Municipal de Quatá com atividades escolares para o período de quarentena devido à pandemia de COVID-19.</p>
             <hr class="my-2">
+            <p class='text-justify'>A Secretaria de Educação por meio desta plataforma disponibilizará conteúdos pedagógicos com atividades para os alunos da Educação Infantil e Ensino Fundamental durante o período de quarentena. </p>
+            <p class='text-justify'>Orientamos aos pais e alunos que mantenham uma rotina de estudos para ampliação dos conhecimentos realizando as atividades. </p>
+            <p class='text-justify'>Para acessar clique na modalidade de ensino que o aluno está matriculado e selecione a escola e série que frequenta, preencha com o nome e realize as atividades do portal quinzenalmente.</p>
             <p class="lead">
                 <a class="btn btn-primary btn-lg my-1" href="educacao-infantil/" role="button">Educação Infantil</a>
                 <a class="btn btn-primary btn-lg my-1" href="ensino-fundamental/" role="button">Ensino Fundamental</a>

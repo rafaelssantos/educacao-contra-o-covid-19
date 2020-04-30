@@ -1,6 +1,6 @@
 <!-- CONFIG ---------------- -->
 <?php
-require_once('../../conf/conf.php');
+include_once('../conf/conf.php');
 ?>
 <!-- ----------------------- -->
 
@@ -35,7 +35,7 @@ require_once('../../conf/conf.php');
     ?>
 
     <script>
-        $("#nav-link-ensino-fundamental").addClass("active");
+        $("#nav-link-educacao-infantil").addClass("active");
     </script>
 
 
@@ -47,13 +47,10 @@ require_once('../../conf/conf.php');
             <hr class="my-2">
         </div>
         <div class="container pt-3">
-            <h5>Atividade 1 ─ 05 de maio de 2020</h5>
-            <!-- <div class="list-group">
-                <a href="#" class="list-group-item list-group-item-action">Português / Matemática / Ciências </a>
-                <a href="" class="list-group-item list-group-item-action disable">Arte</a>
-                <a href="" class="list-group-item list-group-item-action disable">Educação Física</a>
-                <a href="" class="list-group-item list-group-item-action disable">Inglês</a>
-            </div> -->
+            <h5>Atividade 1 ─ 04 de maio de 2020</h5>
+            <div class="list-group">
+                <a href="https://forms.gle/BwrV8MacEhDJYJGs9" class="list-group-item list-group-item-action">Acessar atividade</a>
+            </div>
         </div>
     </div>
 
