@@ -15,6 +15,10 @@
     color: red;
 }
 
+.pmq-text-darkred{
+    color: darkred;
+}
+
 .pmq-header-main-logo{
     width: 6rem;
     height: auto;
