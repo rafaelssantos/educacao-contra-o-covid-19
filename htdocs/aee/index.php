@@ -14,7 +14,7 @@ require_once('../../conf/conf.php');
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <base href=<?php echo BASE_URL_DIR; ?>>
 
-    <title>Educação Infantil ─ Escola Conect@da </title>
+    <title>AEE ─ Secretaria de Educação contra o COVID-19</title>
 
     <link rel="shortcut icon" href="img/logo.ico">
 
@@ -35,7 +35,7 @@ require_once('../../conf/conf.php');
     ?>
 
     <script>
-        $("#nav-link-educacao-infantil").addClass("active");
+        $("#nav-link-aee").addClass("active");
     </script>
 
 
@@ -43,12 +43,12 @@ require_once('../../conf/conf.php');
 
 <div class="jumbotron jumbotron-fluid m-0 flex-grow-1">
         <div class="container">
-            <h4 class="pmq-brand-font pmq-text-red">Educação Infantil</h4>
+            <h4 class="pmq-brand-font pmq-text-red">AEE</h4>
             <hr class="my-2">
             <p class="lead">
-                <a class="btn btn-primary btn-lg my-1" href="#" role="button">Creche</a>
+                <!-- <a class="btn btn-primary btn-lg my-1" href="#" role="button">Creche</a>
                 <a class="btn btn-primary btn-lg my-1" href="#" role="button">Pré I</a>
-                <a class="btn btn-primary btn-lg my-1" href="#" role="button">Pré II</a>
+                <a class="btn btn-primary btn-lg my-1" href="#" role="button">Pré II</a> -->
             </p>
         </div>
     </div>
