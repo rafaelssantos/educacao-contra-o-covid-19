@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Comic+Neue&display=swap');
+    @import url('https://fonts.googleapis.com/css2?family=Comic+Neue&display=swap');
 .pmq-brand-font {
     font-family: 'Comic Neue', cursive;
     font-weight: bold;
@@ -28,3 +28,9 @@
 .pmq-bg-darkerred {
     background: rgb(80, 0, 0);
 }
+
+@include media-breakpoint-up(sm) {
+    .pmq-brand-font {
+        font-family: 'Comic Neue', cursive;
+        font-weight: bold;
+    }
