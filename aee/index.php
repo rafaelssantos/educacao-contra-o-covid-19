@@ -51,6 +51,11 @@ require_once('../conf/conf.php');
             <div class="list-group">
                 <a href="https://forms.gle/BE9LqAnVnhAF5SnY8" class="list-group-item list-group-item-action">Acessar atividade</a>
             </div>
+
+            <h5>Atividade 2 ─ 18 de maio de 2020</h5>
+            <div class="list-group">
+                <a href="https://forms.gle/cnmw5ya96x3pJVQH8" class="list-group-item list-group-item-action">Acessar atividade</a>
+            </div>
         </div>
     </div>
 

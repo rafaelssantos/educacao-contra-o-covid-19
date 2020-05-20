@@ -47,14 +47,22 @@ include_once('../conf/conf.php');
             <hr class="my-2">
         </div>
         <div class="container pt-3">
-        <h5>Atividade 1 ─ 04 de maio de 2020</h5>
+            <h5>Atividade 1 ─ 04 de maio de 2020</h5>
             <div class="list-group">
                 <a href="https://forms.gle/FnbMWoFfUhbCxaf38" class="list-group-item list-group-item-action">Português / Matemática / Ciências </a>
                 <a href="https://forms.gle/gz3L1EPzE2ejoTD87" class="list-group-item list-group-item-action">Arte</a>
                 <a href="https://forms.gle/YEbZb8fx5pW2Dpfx6" class="list-group-item list-group-item-action">Educação Física</a>
                 <a href="https://forms.gle/RKSZtHsNUT4MJsed7" class="list-group-item list-group-item-action">Inglês</a>
             </div>
+            <h5>Atividade 2 ─ 18 de maio de 2020</h5>
+            <div class="list-group">
+                <a href="https://forms.gle/2z53cDM4BxDGtjFY7" class="list-group-item list-group-item-action">Português / Matemática / Ciências </a>
+                <a href="https://forms.gle/GnYcMk8UQ86bhzcDA" class="list-group-item list-group-item-action">Arte</a>
+                <a href="https://forms.gle/aRkKy7r5UApcp7Qu5" class="list-group-item list-group-item-action">Educação Física</a>
+                <a href="https://forms.gle/ud12kFq5hvAedY4NA" class="list-group-item list-group-item-action">Inglês</a>
+            </div>
         </div>
+
     </div>
 
     <?php

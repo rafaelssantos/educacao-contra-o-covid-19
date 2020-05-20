@@ -54,6 +54,13 @@ include_once('../conf/conf.php');
                 <a href="" class="list-group-item list-group-item-action disabled">Educação Física</a>
                 <a href="" class="list-group-item list-group-item-action disabled">Inglês</a> -->
             </div>
+            <h5>Atividade 2 ─ 18 de maio de 2020</h5>
+            <div class="list-group">
+                <a href="https://forms.gle/i5UsahdMci3WUezG9" class="list-group-item list-group-item-action">Português / Matemática / Ciências </a>
+                <!-- <a href="" class="list-group-item list-group-item-action disabled">Arte</a>
+                <a href="" class="list-group-item list-group-item-action disabled">Educação Física</a>
+                <a href="" class="list-group-item list-group-item-action disabled">Inglês</a> -->
+            </div>
         </div>
     </div>
 

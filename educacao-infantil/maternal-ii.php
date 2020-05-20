@@ -49,7 +49,8 @@ include_once('../conf/conf.php');
         <div class="container pt-3">
             <h5>Atividade 1 ─ 04 de maio de 2020</h5>
             <a href="https://forms.gle/vZtiWN9AqRcpiMAs6" class="list-group-item list-group-item-action">Acessar atividade</a>
-
+            <h5>Atividade 2 ─ 18 de maio de 2020</h5>
+            <a href="https://forms.gle/vqKiR6QTkJSLtwvr7" class="list-group-item list-group-item-action">Acessar atividade</a>
         </div>
     </div>
 
