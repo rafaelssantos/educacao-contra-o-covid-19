@@ -50,16 +50,14 @@ include_once('../conf/conf.php');
             <h5>Atividade 1 ─ 04 de maio de 2020</h5>
             <div class="list-group">
                 <a href="https://forms.gle/HVzjb51QPoA5sNM66" class="list-group-item list-group-item-action">Português / Matemática / Ciências </a>
-                <!-- <a href="" class="list-group-item list-group-item-action disabled">Arte</a>
-                <a href="" class="list-group-item list-group-item-action disabled">Educação Física</a>
-                <a href="" class="list-group-item list-group-item-action disabled">Inglês</a> -->
             </div>
             <h5>Atividade 2 ─ 18 de maio de 2020</h5>
             <div class="list-group">
                 <a href="https://forms.gle/tkjvXErAPpkXCcq36" class="list-group-item list-group-item-action">Português / Matemática / Ciências </a>
-                <!-- <a href="" class="list-group-item list-group-item-action disabled">Arte</a>
-                <a href="" class="list-group-item list-group-item-action disabled">Educação Física</a>
-                <a href="" class="list-group-item list-group-item-action disabled">Inglês</a> -->
+            </div>
+            <h5>Atividade 3 ─ 01 de junho de 2020</h5>
+            <div class="list-group">
+                <a href="https://forms.gle/mGyuY2Gz3P3a9N1n6" class="list-group-item list-group-item-action">Português / Matemática / Ciências </a>
             </div>
         </div>
     </div>
