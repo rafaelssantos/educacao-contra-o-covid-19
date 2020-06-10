@@ -14,7 +14,7 @@ include_once('../conf/conf.php');
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <base href=<?php echo BASE_URL_DIR; ?>>
 
-    <title>Creche ─ Secretaria de Educação contra o COVID-19</title>
+    <title>Berçário ─ Secretaria de Educação contra o COVID-19</title>
 
     <link rel="shortcut icon" href="img/logo.ico">
 
@@ -41,16 +41,18 @@ include_once('../conf/conf.php');
 
 
 
-<div class="jumbotron jumbotron-fluid m-0 flex-grow-1">
+    <div class="jumbotron jumbotron-fluid m-0 flex-grow-1">
         <div class="container">
-            <h4 class="pmq-brand-font pmq-text-red">Creche</h4>
+            <h4 class="pmq-brand-font pmq-text-red">Atividades do Berçário II ─ Educação Infantil</h4>
             <hr class="my-2">
-            <p class="lead">
-                <a class="btn btn-primary btn-lg my-1" href="educacao-infantil/bercario-i.php" role="button">Berçário I</a>
-                <a class="btn btn-primary btn-lg my-1" href="educacao-infantil/bercario-ii.php" role="button">Berçário II</a>
-                <a class="btn btn-primary btn-lg my-1" href="educacao-infantil/maternal-i.php" role="button">Maternal I</a>
-                <a class="btn btn-primary btn-lg my-1" href="educacao-infantil/maternal-ii.php" role="button">Maternal II</a>
-            </p>
+        </div>
+        <div class="container pt-3">
+            <h5>Atividade 1 ─ 05 de maio de 2020</h5>
+            <a href="https://forms.gle/7ygzebQm5fHpwVQg6" class="list-group-item list-group-item-action">Acessar atividade</a>
+            <h5>Atividade 2 ─ 18 de maio de 2020</h5>
+            <a href="https://forms.gle/GSmBiVo8P2W8cCC76" class="list-group-item list-group-item-action">Acessar atividade</a>
+            <h5>Atividade 3 ─ 01 de junho de 2020</h5>
+            <a href="https://forms.gle/qtgiGHcfNMzrvtSw5" class="list-group-item list-group-item-action">Acessar atividade</a>
         </div>
     </div>
 
