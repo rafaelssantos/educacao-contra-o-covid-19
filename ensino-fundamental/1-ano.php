@@ -70,6 +70,14 @@ include_once('../conf/conf.php');
                 <a href="https://forms.gle/HPPe6y79LbgLdaLp8" class="list-group-item list-group-item-action">Educação Física</a>
                 <a href="https://forms.gle/qtmATSE8vRhr93k28" class="list-group-item list-group-item-action">Inglês</a>
             </div>
+
+            <h5>Atividade 4 ─ 15 de junho de 2020</h5>
+            <div class="list-group">
+                <a href="https://forms.gle/E6eqVq4bUHbBxijm9" class="list-group-item list-group-item-action">Português / Matemática / Ciências </a>
+                <a href="https://forms.gle/EuVM1ziiEyVSGEhD9" class="list-group-item list-group-item-action">Arte</a>
+                <a href="https://forms.gle/gLtpS8mdjwgtFXKk6" class="list-group-item list-group-item-action">Educação Física</a>
+                <a href="https://forms.gle/rCzN8YpTThXdufPV7" class="list-group-item list-group-item-action">Inglês</a>
+            </div>
         </div>
     </div>
 
