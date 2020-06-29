@@ -78,6 +78,14 @@ include_once('../conf/conf.php');
                 <a href="https://forms.gle/NFn5VPmfZ3hGGhke7" class="list-group-item list-group-item-action">Educação Física</a>
                 <a href="" class="list-group-item list-group-item-action">Inglês</a>
             </div>
+
+            <h5>Atividade 5 ─ 29 de junho de 2020</h5>
+            <div class="list-group">
+                <a href="https://forms.gle/MkCfhazpNaCuxVLz8" class="list-group-item list-group-item-action">Português / Matemática / Ciências </a>
+                <a href="https://forms.gle/HzSGwxU4tD181nFn9" class="list-group-item list-group-item-action">Arte</a>
+                <a href="https://forms.gle/CwRCpjjpYkHhTcQ6A" class="list-group-item list-group-item-action">Educação Física</a>
+                <a href="" class="list-group-item list-group-item-action">Inglês</a>
+            </div>
         </div>
     </div>
 
