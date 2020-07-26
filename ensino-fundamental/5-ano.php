@@ -94,6 +94,14 @@ include_once('../conf/conf.php');
                 <a href="https://forms.gle/Zeutd9vujhjf45mg9" class="list-group-item list-group-item-action">Educação Física</a>
                 <a href="https://forms.gle/JFtQNv5Tkg34JzUb7" class="list-group-item list-group-item-action">Inglês</a>
             </div>
+
+            <h5>Atividade 7 ─ 27 de julho de 2020</h5>
+            <div class="list-group">
+                <a href="https://forms.gle/bTbntNmcTJnEPyeE9" class="list-group-item list-group-item-action">Português / Matemática / Ciências </a>
+                <a href="https://forms.gle/cj3WA1mWQ4CF2djRA" class="list-group-item list-group-item-action">Arte</a>
+                <a href="https://forms.gle/vWsmoNXa15imCrqs5" class="list-group-item list-group-item-action">Educação Física</a>
+                <a href="https://forms.gle/iuVfxcvTQG6PgUVMA" class="list-group-item list-group-item-action">Inglês</a>
+            </div>
         </div>
     </div>
 

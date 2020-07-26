@@ -71,6 +71,10 @@ include_once('../conf/conf.php');
             <div class="list-group">
                 <a href="https://forms.gle/nwhvjxbrkNLPuKTe8" class="list-group-item list-group-item-action">Português / Matemática / Ciências </a>
             </div>
+            <h5>Atividade 7 ─ 27 de julho de 2020</h5>
+            <div class="list-group">
+                <a href="https://forms.gle/PAJTa4bjAuw6D1hG8" class="list-group-item list-group-item-action">Português / Matemática / Ciências </a>
+            </div>
         </div>
     </div>
 
