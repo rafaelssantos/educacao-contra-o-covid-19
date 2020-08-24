@@ -80,6 +80,10 @@ require_once('../conf/conf.php');
             <div class="list-group">
                 <a href="https://forms.gle/1UXHbkTYawDwhPMaA" class="list-group-item list-group-item-action">Acessar atividade</a>
             </div>
+            <h5>Atividade 9 ─ 24 de agosto de 2020</h5>
+            <div class="list-group">
+                <a href="https://forms.gle/5C4tQSAbi8jrmrE58" class="list-group-item list-group-item-action">Acessar atividade</a>
+            </div>
         </div>
     </div>
 

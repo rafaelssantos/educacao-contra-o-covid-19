@@ -73,6 +73,10 @@ include_once('../conf/conf.php');
             <a href="https://forms.gle/sg7hD9kGvrUjPfNM6" class="list-group-item list-group-item-action">Acessar atividade</a>
             <h5>Atividade 8 (Bercário II-B) ─ 10 de agosto de 2020</h5>
             <a href="https://forms.gle/8fYS2vfa43dSQDn2A" class="list-group-item list-group-item-action">Acessar atividade</a>
+            <h5>Atividade 9 (Bercário II-A) ─ 24 de agosto de 2020</h5>
+            <a href="https://forms.gle/BousqJSBNpaLWoft8" class="list-group-item list-group-item-action">Acessar atividade</a>
+            <h5>Atividade 9 (Bercário II-B) ─ 24 de agosto de 2020</h5>
+            <a href="https://forms.gle/gxUGLVmcw3yuunE19" class="list-group-item list-group-item-action">Acessar atividade</a>
 
         </div>
     </div>
