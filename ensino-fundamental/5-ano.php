@@ -118,6 +118,14 @@ include_once('../conf/conf.php');
                 <a href="https://forms.gle/N6CnJ4hm47a1Z7bJ9" class="list-group-item list-group-item-action">Educação Física</a>
                 <a href="https://forms.gle/QYJG68GTZBHhtRrd6" class="list-group-item list-group-item-action">Inglês</a>
             </div>
+
+            <h5>Atividade 10 ─ 08 de setembro de 2020</h5>
+            <div class="list-group">
+                <a href="https://forms.gle/hnLSbcZdCW8Q17id7" class="list-group-item list-group-item-action">Português / Matemática / Ciências </a>
+                <a href="https://forms.gle/ooZepySQw58Adej8A" class="list-group-item list-group-item-action">Arte</a>
+                <a href="https://forms.gle/rtg8B79mzqi4L43h7" class="list-group-item list-group-item-action">Educação Física</a>
+                <a href="https://forms.gle/X3Mxs7NpXnyu91az5" class="list-group-item list-group-item-action">Inglês</a>
+            </div>
         </div>
     </div>
 
