@@ -126,6 +126,22 @@ include_once('../conf/conf.php');
                 <a href="https://forms.gle/rtg8B79mzqi4L43h7" class="list-group-item list-group-item-action">Educação Física</a>
                 <a href="https://forms.gle/X3Mxs7NpXnyu91az5" class="list-group-item list-group-item-action">Inglês</a>
             </div>
+
+            <h5>Atividade 11 ─ 21 de setembro de 2020</h5>
+            <div class="list-group">
+                <a href="https://forms.gle/kbdxRPM6rMG2v2Cu6" class="list-group-item list-group-item-action">Português / Matemática / Ciências </a>
+                <a href="https://forms.gle/rK7xihYt4NqmFuyN6" class="list-group-item list-group-item-action">Arte</a>
+                <a href="https://forms.gle/vVnsEQpoocx374zF8" class="list-group-item list-group-item-action">Educação Física</a>
+                <a href="https://forms.gle/rfQLrmMkEbbeyrZZ7" class="list-group-item list-group-item-action">Inglês</a>
+            </div>
+
+            <h5>Atividade 12 ─ 05 de outubro de 2020</h5>
+            <div class="list-group">
+                <a href="https://forms.gle/sNpMwhBDAdpiV5HM6" class="list-group-item list-group-item-action">Português / Matemática / Ciências </a>
+                <a href="https://forms.gle/r8SurC5zjeeYXUv78" class="list-group-item list-group-item-action">Arte</a>
+                <a href="https://forms.gle/fFn6C6gkG5FM9cpw6" class="list-group-item list-group-item-action">Educação Física</a>
+                <a href="https://forms.gle/9JMCA34EaCg7vkQD9" class="list-group-item list-group-item-action">Inglês</a>
+            </div>
         </div>
     </div>
 
