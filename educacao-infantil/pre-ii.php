@@ -89,11 +89,15 @@ include_once('../conf/conf.php');
             </div>
             <h5>Atividade 11 ─ 21 de setembro de 2020</h5>
             <div class="list-group">
-                <a href="https://forms.gle/7xESusesXcvMGZa79" class="list-group-item list-group-item-action">Português / Matemática / Ciências </a>
+                <a href="https://forms.gle/TeRzRghZNeuoivt1A" class="list-group-item list-group-item-action">Português / Matemática / Ciências </a>
             </div>
             <h5>Atividade 12 ─ 05 de outubro de 2020</h5>
             <div class="list-group">
                 <a href="https://forms.gle/MZtRez3yVbRcVvQS9" class="list-group-item list-group-item-action">Português / Matemática / Ciências </a>
+            </div>
+            <h5>Atividade 13 ─ 19 de outubro de 2020</h5>
+            <div class="list-group">
+                <a href="https://forms.gle/6yfL1pVjizh4uGvm7" class="list-group-item list-group-item-action">Português / Matemática / Ciências </a>
             </div>
         </div>
     </div>
