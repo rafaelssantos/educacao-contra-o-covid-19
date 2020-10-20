@@ -89,9 +89,9 @@ include_once('../conf/conf.php');
             <a href="https://forms.gle/sQovvpQ8EnhVrRXG7" class="list-group-item list-group-item-action">Acessar atividade</a>
             <h5>Atividade 12 (Bercário II-B) ─ 05 de outubro de 2020</h5>
             <a href="https://forms.gle/ZvBrUV5bTn3ykeu88" class="list-group-item list-group-item-action">Acessar atividade</a>
-            <h5>Atividade 13 (Bercário II-A) ─ 05 de outubro de 2020</h5>
+            <h5>Atividade 13 (Bercário II-A) ─ 19 de outubro de 2020</h5>
             <a href="https://forms.gle/ntbgRKsM6hdkc5qLA" class="list-group-item list-group-item-action">Acessar atividade</a>
-            <h5>Atividade 13 (Bercário II-B) ─ 05 de outubro de 2020</h5>
+            <h5>Atividade 13 (Bercário II-B) ─ 19 de outubro de 2020</h5>
             <a href="https://forms.gle/vkCMSwT79CbjcDMb7" class="list-group-item list-group-item-action">Acessar atividade</a>
         </div>
     </div>
