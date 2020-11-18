@@ -157,6 +157,14 @@ include_once('../conf/conf.php');
                 <a href="https://forms.gle/4x8h3XqzariyBxMN7" class="list-group-item list-group-item-action">Educação Física</a>
                 <a href="https://forms.gle/Cz1niwFM546aCPX98" class="list-group-item list-group-item-action">Inglês</a>
             </div>
+
+            <h5>Atividade 15 ─ 16 de novembro de 2020</h5>
+            <div class="list-group">
+                <a href="https://forms.gle/vLC6hEsRPWDDpYU96" class="list-group-item list-group-item-action">Português / Matemática / Ciências </a>
+                <a href="https://forms.gle/fpWWudbfWemCWNaW9" class="list-group-item list-group-item-action">Arte</a>
+                <a href="https://forms.gle/8fnUSQRhom6SKCo8A" class="list-group-item list-group-item-action">Educação Física</a>
+                <a href="https://forms.gle/M4CPyWMax1Zv11VR8" class="list-group-item list-group-item-action">Inglês</a>
+            </div>
         </div>
     </div>
 
