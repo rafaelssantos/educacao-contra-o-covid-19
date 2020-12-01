@@ -107,6 +107,14 @@ include_once('../conf/conf.php');
             <div class="list-group">
             <a href="https://forms.gle/K4zHDKeL8USDAbuk6" class="list-group-item list-group-item-action">Acessar atividade</a>
             </div>
+            <h5>Atividade 15 ─ 16 de novembro de 2020</h5>
+            <div class="list-group">
+            <a href="https://forms.gle/K4zHDKeL8USDAbuk6" class="list-group-item list-group-item-action">Acessar atividade</a>
+            </div>
+            <h5>Atividade 16 ─ 30 de novembro de 2020</h5>
+            <div class="list-group">
+            <a href="https://forms.gle/NECcuUu4cuL86v5W9" class="list-group-item list-group-item-action">Acessar atividade</a>
+            </div>
         </div>
     </div>
 
