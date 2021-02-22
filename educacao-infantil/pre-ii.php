@@ -42,7 +42,8 @@ include_once('../conf/conf.php');
 
 
     <div class="jumbotron jumbotron-fluid m-0 flex-grow-1">
-        <h4 class="pmq-brand-font pmq-text-red">Atividades do Maternal II ─ Educação Infantil (2021)</h4>
+        <div class="container">
+            <h4 class="pmq-brand-font pmq-text-red">Atividades do Pré II ─ Educação Infantil (2021)</h4>
             <hr class="my-2">
         </div>
         <div class="container pt-3">
