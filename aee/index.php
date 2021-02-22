@@ -42,8 +42,18 @@ require_once('../conf/conf.php');
 
 
 <div class="jumbotron jumbotron-fluid m-0 flex-grow-1">
+<div class="container">
+            <h4 class="pmq-brand-font pmq-text-red">Atividades do AEE (2021)</h4>
+            <hr class="my-2">
+        </div>
+        <div class="container pt-3">
+            <h5>Atividade 1 ─ 22 de fevereiro de 2021</h5>
+            <div class="list-group">
+                <a href="https://forms.gle/aHUgWWbbVUN1aYC49" class="list-group-item list-group-item-action">Acessar atividade</a>
+            </div>
+        </div>
         <div class="container">
-            <h4 class="pmq-brand-font pmq-text-red">Atividades do AEE</h4>
+            <h4 class="pmq-brand-font pmq-text-red">Atividades do AEE (2020)</h4>
             <hr class="my-2">
         </div>
         <div class="container pt-3">
