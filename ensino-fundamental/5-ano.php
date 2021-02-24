@@ -50,8 +50,8 @@ include_once('../conf/conf.php');
             <h5>Atividade 1 ─ 22 de fevereiro de 2021</h5>
             <div class="list-group">
                 <a href="https://forms.gle/csCD7iZDf2erLQoJ6" class="list-group-item list-group-item-action">Português / Matemática / Ciências </a>
-                <a href="https://forms.gle/YqWT7foh8dCJe2BLA" class="list-group-item list-group-item-action">Arte</a>
-                <a href="https://forms.gle/aq2XQcyFvsBSftE68" class="list-group-item list-group-item-action">Educação Física</a>
+                <a href="https://forms.gle/VhyNaPKHnEzM9BLX9" class="list-group-item list-group-item-action">Arte</a>
+                <a href="https://forms.gle/wzRGACLWZpkDmKDD8" class="list-group-item list-group-item-action">Educação Física</a>
                 <a href="https://forms.gle/c3VpKuCBDM9XWwZb9" class="list-group-item list-group-item-action">Inglês</a>
             </div>
         </div>
