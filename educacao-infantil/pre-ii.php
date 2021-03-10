@@ -51,6 +51,10 @@ include_once('../conf/conf.php');
             <div class="list-group">
                 <a href="https://forms.gle/3iJP5XoMkRKA2fy48" class="list-group-item list-group-item-action">Acessar atividade</a>
             </div>
+            <h5>Atividade 2 ─ 08 de março de 2021</h5>
+            <div class="list-group">
+                <a href="https://forms.gle/2WcCu7QeN56nSoFU7" class="list-group-item list-group-item-action">Acessar atividade</a>
+            </div>
         </div>
         <div class="container">
             <h4 class="pmq-brand-font pmq-text-red">Atividades do Pré II ─ Educação Infantil (2020)</h4>
