@@ -60,7 +60,6 @@ include_once('../conf/conf.php');
                 <a href="https://forms.gle/LnmWtYzQsF2tyDgS6" class="list-group-item list-group-item-action">Acessar atividade</a>
             </div>
         </div>
-        </div>
         <div class="container">
             <h4 class="pmq-brand-font pmq-text-red">Atividades do Maternal I ─ Educação Infantil (2020)</h4>
             <hr class="my-2">
