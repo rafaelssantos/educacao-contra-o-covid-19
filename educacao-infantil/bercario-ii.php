@@ -51,6 +51,8 @@ include_once('../conf/conf.php');
             <a href="https://forms.gle/59bhDmTbWauiXLka9" class="list-group-item list-group-item-action">Acessar atividade</a>
             <h5>Atividade 2 (Bercário II) ─ 08 de março de 2021</h5>
             <a href="https://forms.gle/FExn3zyBfQKtLGNs7" class="list-group-item list-group-item-action">Acessar atividade</a>
+            <h5>Atividade 3 (Bercário II) ─ 22 de março de 2021</h5>
+            <a href="https://forms.gle/PnyHWjWds8gpy2AYA" class="list-group-item list-group-item-action">Acessar atividade</a>
         </div>
         <div class="container">
             <h4 class="pmq-brand-font pmq-text-red">Atividades do Berçário II ─ Educação Infantil (2020)</h4>
