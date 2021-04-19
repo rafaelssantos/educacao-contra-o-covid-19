@@ -75,6 +75,13 @@ include_once('../conf/conf.php');
                 <a href="https://forms.gle/JfbsH67qiQcTRJbf8" class="list-group-item list-group-item-action">Educação Física</a>
                 <a href="https://forms.gle/uHpXJQtMbc9bhwbH8" class="list-group-item list-group-item-action">Inglês</a>
             </div>
+            <h5>Atividade 5 ─ 19 de abril de 2021</h5>
+            <div class="list-group">
+                <a href="https://forms.gle/VGxNJod7sv5aKbmP7" class="list-group-item list-group-item-action">Português / Matemática / Ciências </a>
+                <a href="https://forms.gle/qzn4UUZdip4uLRdy8" class="list-group-item list-group-item-action">Arte</a>
+                <a href="https://forms.gle/VWNz2caCuj6ujGsb6" class="list-group-item list-group-item-action">Educação Física</a>
+                <a href="https://forms.gle/gGovYZbh7cR9DY8V6" class="list-group-item list-group-item-action">Inglês</a>
+            </div>
         </div>
         <div class="container">
             <h4 class="pmq-brand-font pmq-text-red">Atividades do 5º Ano ─ Ensino Fundamental (2020)</h4>

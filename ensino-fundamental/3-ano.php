@@ -75,6 +75,13 @@ include_once('../conf/conf.php');
                 <a href="https://forms.gle/AvGyGqnARY785LAy5" class="list-group-item list-group-item-action">Educação Física</a>
                 <a href="https://forms.gle/QRrwAiQffbN9bBnU9" class="list-group-item list-group-item-action">Inglês</a>
             </div>
+            <h5>Atividade 5 ─ 19 de abril de 2021</h5>
+            <div class="list-group">
+                <a href="https://forms.gle/Za1QopSwoDt4B3KG9" class="list-group-item list-group-item-action">Português / Matemática / Ciências </a>
+                <a href="https://forms.gle/qfsiwTVtqM6nXnCp6" class="list-group-item list-group-item-action">Arte</a>
+                <a href="https://forms.gle/k9GHXjif14shWnYj7" class="list-group-item list-group-item-action">Educação Física</a>
+                <a href="https://forms.gle/LzbPLJkFE7y2rqxo7" class="list-group-item list-group-item-action">Inglês</a>
+            </div>
         </div>
         <div class="container">
             <h4 class="pmq-brand-font pmq-text-red">Atividades do 3º Ano ─ Ensino Fundamental</h4>
