@@ -82,6 +82,20 @@ include_once('../conf/conf.php');
                 <a href="https://forms.gle/GtjzQrcRvtxWuNrcA" class="list-group-item list-group-item-action">Educação Física</a>
                 <a href="https://forms.gle/AYQzUGb77pQzFprs5" class="list-group-item list-group-item-action">Inglês</a>
             </div>
+            <h5>Atividade 6 ─ 03 de maio de 2021</h5>
+            <div class="list-group">
+                <a href="https://forms.gle/7qbfU5NEMjRvHacZA" class="list-group-item list-group-item-action">Português / Matemática / Ciências </a>
+                <a href="https://forms.gle/avUYATmRdcyFWHg57" class="list-group-item list-group-item-action">Arte</a>
+                <a href="https://forms.gle/cCAsu8g9JxsUw6h16" class="list-group-item list-group-item-action">Educação Física</a>
+                <a href="https://forms.gle/zQ9EMMEUxJcAtgcUA" class="list-group-item list-group-item-action">Inglês</a>
+            </div>
+            <h5>Atividade 7 ─ 17 de maio de 2021</h5>
+            <div class="list-group">
+                <a href="https://forms.gle/dNAvzdghtBPuon9DA" class="list-group-item list-group-item-action">Português / Matemática / Ciências </a>
+                <a href="https://forms.gle/CsYudu329wBnSv3E6" class="list-group-item list-group-item-action">Arte</a>
+                <a href="https://forms.gle/oCswiQHxcjFhEVEQ8" class="list-group-item list-group-item-action">Educação Física</a>
+                <a href="https://forms.gle/pfgyhnYkQfrJDJdd7" class="list-group-item list-group-item-action">Inglês</a>
+            </div>
         </div>
         <div class="container">
             <h4 class="pmq-brand-font pmq-text-red">Atividades do 2º Ano ─ Ensino Fundamental (2020)</h4>

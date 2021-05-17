@@ -56,7 +56,11 @@ include_once('../conf/conf.php');
             <h5>Atividade 4 (Bercário II) ─ 05 de abril de 2021</h5>
             <a href="https://forms.gle/yd1Qz1LpoYNvDNu66" class="list-group-item list-group-item-action">Acessar atividade</a>
             <h5>Atividade 5 (Bercário II) ─ 19 de abril de 2021</h5>
-            <a href="https://fo6LJJ5TxXfbrms.gle/dB1Z3uJ4cXMyF98ZA" class="list-group-item list-group-item-action">Acessar atividade</a>
+            <a href="https://forms.gle/Gu4kmoARBRyeHEtY8" class="list-group-item list-group-item-action">Acessar atividade</a>
+            <h5>Atividade 6 (Bercário II) ─ 03 de maio de 2021</h5>
+            <a href="https://forms.gle/SZgLJrZwfjcvih9E7" class="list-group-item list-group-item-action">Acessar atividade</a>
+            <h5>Atividade 7 (Bercário II) ─ 17 de maio de 2021</h5>
+            <a href="https://forms.gle/tyxNT8nHbEBYnqmw7" class="list-group-item list-group-item-action">Acessar atividade</a>
         </div>
         <div class="container">
             <h4 class="pmq-brand-font pmq-text-red">Atividades do Berçário II ─ Educação Infantil (2020)</h4>

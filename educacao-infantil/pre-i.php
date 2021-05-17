@@ -67,6 +67,14 @@ include_once('../conf/conf.php');
             <div class="list-group">
                 <a href="https://forms.gle/qiFggJfsWRrSGzQNA" class="list-group-item list-group-item-action">Acessar atividade</a>
             </div>
+            <h5>Atividade 6 ─ 03 de maio de 2021</h5>
+            <div class="list-group">
+                <a href="https://forms.gle/ABnihuCkpKjJ1rxq8" class="list-group-item list-group-item-action">Acessar atividade</a>
+            </div>
+            <h5>Atividade 7 ─ 17 de maio de 2021</h5>
+            <div class="list-group">
+                <a href="https://forms.gle/vd9kqcEbwg2jaMgM6" class="list-group-item list-group-item-action">Acessar atividade</a>
+            </div>
         </div>
         <div class="container">
             <h4 class="pmq-brand-font pmq-text-red">Atividades do Pré I ─ Educação Infantil (2020)</h4>
