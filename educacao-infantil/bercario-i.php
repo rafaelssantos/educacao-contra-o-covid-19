@@ -59,7 +59,7 @@ include_once('../conf/conf.php');
             <a href="https://forms.gle/9jdQ6JBr3CKvMBEG6" class="list-group-item list-group-item-action">Acessar atividade</a>
             <h5>Atividade 6 ─ 03 de maio de 2021</h5>
             <a href="https://forms.gle/qMAAC3jkAwzQZGat9" class="list-group-item list-group-item-action">Acessar atividade</a>
-            <h5>Atividade 7 ─ 03 de maio de 2021</h5>
+            <h5>Atividade 7 ─ 17 de maio de 2021</h5>
             <a href="https://forms.gle/omXGjAPPpynNmFM2A" class="list-group-item list-group-item-action">Acessar atividade</a>
         </div>
         <div class="container">
