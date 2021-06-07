@@ -96,6 +96,13 @@ include_once('../conf/conf.php');
                 <a href="https://forms.gle/Kq3H9bT7K22WUbHG8" class="list-group-item list-group-item-action">Educação Física</a>
                 <a href="https://forms.gle/BwEMC1WSBgVQ1Pzc8" class="list-group-item list-group-item-action">Inglês</a>
             </div>
+            <h5>Atividade 8 ─ 31 de maio de 2021</h5>
+            <div class="list-group">
+                <a href="https://forms.gle/fxgmoD7bc3gMUm8r6" class="list-group-item list-group-item-action">Português / Matemática / Ciências </a>
+                <a href="https://forms.gle/ERnnZrcEYQEKoZsK7" class="list-group-item list-group-item-action">Arte</a>
+                <a href="https://forms.gle/pg87mr5B83EVqitU6" class="list-group-item list-group-item-action">Educação Física</a>
+                <a href="https://forms.gle/7vDjyygph1Qp3SuZ8" class="list-group-item list-group-item-action">Inglês</a>
+            </div>
         </div>
         <div class="container">
             <h4 class="pmq-brand-font pmq-text-red">Atividades do 5º Ano ─ Ensino Fundamental (2020)</h4>

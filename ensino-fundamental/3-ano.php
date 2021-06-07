@@ -96,6 +96,13 @@ include_once('../conf/conf.php');
                 <a href="https://forms.gle/RoyfhSddDA8LaWA37" class="list-group-item list-group-item-action">Educação Física</a>
                 <a href="https://forms.gle/Eq3Rqxznskh42Csc9" class="list-group-item list-group-item-action">Inglês</a>
             </div>
+            <h5>Atividade 8 ─ 31 de maio de 2021</h5>
+            <div class="list-group">
+                <a href="https://forms.gle/FwtqAxrEL3idDoPDA" class="list-group-item list-group-item-action">Português / Matemática / Ciências </a>
+                <a href="https://forms.gle/PH9WwrgKddHLWyrcA" class="list-group-item list-group-item-action">Arte</a>
+                <a href="https://forms.gle/iXErdZRHYafomgw2A" class="list-group-item list-group-item-action">Educação Física</a>
+                <a href="https://forms.gle/qBTkdfXJkrFJVs9LA" class="list-group-item list-group-item-action">Inglês</a>
+            </div>
         </div>
         <div class="container">
             <h4 class="pmq-brand-font pmq-text-red">Atividades do 3º Ano ─ Ensino Fundamental</h4>

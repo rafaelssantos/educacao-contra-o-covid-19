@@ -96,6 +96,13 @@ include_once('../conf/conf.php');
                 <a href="https://forms.gle/oCswiQHxcjFhEVEQ8" class="list-group-item list-group-item-action">Educação Física</a>
                 <a href="https://forms.gle/pfgyhnYkQfrJDJdd7" class="list-group-item list-group-item-action">Inglês</a>
             </div>
+            <h5>Atividade 8 ─ 31 de maio de 2021</h5>
+            <div class="list-group">
+                <a href="https://forms.gle/bdBTeVqD7ytTwYuZ6" class="list-group-item list-group-item-action">Português / Matemática / Ciências </a>
+                <a href="https://forms.gle/HmzWKUk1XY1FRPCp9" class="list-group-item list-group-item-action">Arte</a>
+                <a href="https://forms.gle/9Te37puEuadoNTUQ9" class="list-group-item list-group-item-action">Educação Física</a>
+                <a href="https://forms.gle/iBSTWuciKKhzGwRC8" class="list-group-item list-group-item-action">Inglês</a>
+            </div>
         </div>
         <div class="container">
             <h4 class="pmq-brand-font pmq-text-red">Atividades do 2º Ano ─ Ensino Fundamental (2020)</h4>
