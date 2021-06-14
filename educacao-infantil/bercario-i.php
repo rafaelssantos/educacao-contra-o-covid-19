@@ -63,6 +63,8 @@ include_once('../conf/conf.php');
             <a href="https://forms.gle/omXGjAPPpynNmFM2A" class="list-group-item list-group-item-action">Acessar atividade</a>
             <h5>Atividade 8 ─ 31 de maio de 2021</h5>
             <a href="https://forms.gle/9YfGtbJq3HDnsch39" class="list-group-item list-group-item-action">Acessar atividade</a>
+            <h5>Atividade 9 ─ 14 de junho de 2021</h5>
+            <a href="https://forms.gle/SqVxiuzqUTp9bnXz5" class="list-group-item list-group-item-action">Acessar atividade</a>
         </div>
         <div class="container">
             <h4 class="pmq-brand-font pmq-text-red">Atividades do Berçário I ─ Educação Infantil (2020)</h4>
