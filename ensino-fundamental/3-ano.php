@@ -121,7 +121,7 @@ include_once('../conf/conf.php');
             <div class="list-group">
                 <a href="https://forms.gle/CToT2inwvFwzVVjy9" class="list-group-item list-group-item-action">Português / Matemática / Ciências </a>
                 <a href="https://forms.gle/hsxpsbeyEdzwNoLU7" class="list-group-item list-group-item-action">Arte</a>
-                <a href="https://forms.gle/FY6vfeq7avELz4g16" class="list-group-item list-group-item-action">Educação Física</a>
+                <a href="https://forms.gle/x9dt4ug4kydxQomK8" class="list-group-item list-group-item-action">Educação Física</a>
                 <a href="https://forms.gle/141PQDywhmpZPB5r9" class="list-group-item list-group-item-action">Inglês</a>
             </div>
         </div>
