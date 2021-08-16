@@ -124,6 +124,13 @@ include_once('../conf/conf.php');
                 <a href="https://forms.gle/qb2uFFtgBXGAm5dEA" class="list-group-item list-group-item-action">Educação Física</a>
                 <a href="https://forms.gle/gKQ95618H2FB6bVP6" class="list-group-item list-group-item-action">Inglês</a>
             </div>
+            <h5>Atividade 12 ─ 16 de agosto de 2021</h5>
+            <div class="list-group">
+                <a href="https://forms.gle/WMwVpbQR1pEVrKN49" class="list-group-item list-group-item-action">Português / Matemática / Ciências </a>
+                <a href="https://forms.gle/A4EpkopeiXHXcSad8" class="list-group-item list-group-item-action">Arte</a>
+                <a href="https://forms.gle/DAmMCZtUSdLqu9fXA" class="list-group-item list-group-item-action">Educação Física</a>
+                <a href="https://forms.gle/5rwSAoEoGnv7jDPm7" class="list-group-item list-group-item-action">Inglês</a>
+            </div>
         </div>
         <div class="container">
             <h4 class="pmq-brand-font pmq-text-red">Atividades do 2º Ano ─ Ensino Fundamental (2020)</h4>

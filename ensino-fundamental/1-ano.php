@@ -124,6 +124,13 @@ include_once('../conf/conf.php');
                 <a href="https://forms.gle/qaixcZfEaYB5R7nQ6" class="list-group-item list-group-item-action">Educação Física</a>
                 <a href="https://forms.gle/UTX54pupaDRiEpiC8" class="list-group-item list-group-item-action">Inglês</a>
             </div>
+            <h5>Atividade 12 ─ 16 de agosto de 2021</h5>
+            <div class="list-group">
+                <a href="https://forms.gle/iefPetfJi6vnxWPK6" class="list-group-item list-group-item-action">Português / Matemática / Ciências </a>
+                <a href="https://forms.gle/c2GeYG8Yy7hZMp9Z9" class="list-group-item list-group-item-action">Arte</a>
+                <a href="https://forms.gle/ZhvGsmcFtc2guCbF8" class="list-group-item list-group-item-action">Educação Física</a>
+                <a href="https://forms.gle/7Q8GqBay4ehvmGEc8" class="list-group-item list-group-item-action">Inglês</a>
+            </div>
         </div>
         <div class="container">
             <h4 class="pmq-brand-font pmq-text-red">Atividades do 1º Ano ─ Ensino Fundamental (2020)</h4>
