@@ -145,6 +145,13 @@ include_once('../conf/conf.php');
                 <a href="https://forms.gle/bkQNdvJfab4RuQUp7" class="list-group-item list-group-item-action">Educação Física</a>
                 <a href="https://forms.gle/pdz2pzkQebEG9C1y7" class="list-group-item list-group-item-action">Inglês</a>
             </div>
+            <h5>Atividade 15 ─ 27 de setembro de 2021</h5>
+            <div class="list-group">
+                <a href="https://forms.gle/RfMoTbvu7ih1feDP6" class="list-group-item list-group-item-action">Português / Matemática / Ciências </a>
+                <a href="https://forms.gle/EHCYJ2bpi5TKRG69A" class="list-group-item list-group-item-action">Arte</a>
+                <a href="https://forms.gle/ooo2hQ4gEhzRArrA6" class="list-group-item list-group-item-action">Educação Física</a>
+                <a href="https://forms.gle/UDGDrrsXAQ2SmEDZ7" class="list-group-item list-group-item-action">Inglês</a>
+            </div>
         </div>
         <div class="container">
             <h4 class="pmq-brand-font pmq-text-red">Atividades do 2º Ano ─ Ensino Fundamental (2020)</h4>
