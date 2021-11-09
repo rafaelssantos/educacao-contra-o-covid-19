@@ -163,7 +163,7 @@ include_once('../conf/conf.php');
             <div class="list-group">
                 <a href="https://forms.gle/LjPXiDGPsQ81qZKx7" class="list-group-item list-group-item-action">Português / Matemática / Ciências </a>
                 <a href="https://forms.gle/3VMU1JeY5YJ15hJJ9" class="list-group-item list-group-item-action">Arte</a>
-                <a href=https://forms.gle/w8ngRaF6SRQJ16zH9" class="list-group-item list-group-item-action">Educação Física</a>
+                <a href="https://forms.gle/w8ngRaF6SRQJ16zH9" class="list-group-item list-group-item-action">Educação Física</a>
                 <a href="https://forms.gle/8HEXVuDRGS1E5kim7" class="list-group-item list-group-item-action">Inglês</a>
             </div>
         </div>
