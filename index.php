@@ -53,8 +53,6 @@ include_once('conf/conf.php');
                 <a class="btn btn-primary btn-lg my-1" href="educacao-infantil/" role="button">Educação Infantil</a>
                 <a class="btn btn-primary btn-lg my-1" href="ensino-fundamental/" role="button">Ensino Fundamental</a>
                 <a class="btn btn-primary btn-lg my-1" href="aee/" role="button">AEE</a>
-
-
             </p>
         </div>
     </div>

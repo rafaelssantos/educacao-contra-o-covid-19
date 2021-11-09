@@ -159,6 +159,13 @@ include_once('../conf/conf.php');
                 <a href="https://forms.gle/UKKdQfkaQibhyfeF9" class="list-group-item list-group-item-action">Educação Física</a>
                 <a href="https://forms.gle/x3rsrWUMLMWQvi4a8" class="list-group-item list-group-item-action">Inglês</a>
             </div>
+            <h5>Atividade 17 ─ 08 de novembro de 2021</h5>
+            <div class="list-group">
+                <a href="https://forms.gle/iLPWaBk6sMKuRiYf9" class="list-group-item list-group-item-action">Português / Matemática / Ciências </a>
+                <a href="https://forms.gle/JH4eCzZkHSb5oS2z9" class="list-group-item list-group-item-action">Arte</a>
+                <a href="https://forms.gle/NouToFWqQAyGohtv9" class="list-group-item list-group-item-action">Educação Física</a>
+                <a href="https://forms.gle/CiRJZsxUypQkD1XcA" class="list-group-item list-group-item-action">Inglês</a>
+            </div>
         </div>
         <div class="container">
             <h4 class="pmq-brand-font pmq-text-red">Atividades do 3º Ano ─ Ensino Fundamental</h4>

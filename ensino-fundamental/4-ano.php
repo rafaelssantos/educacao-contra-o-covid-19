@@ -159,6 +159,13 @@ include_once('../conf/conf.php');
                 <a href="https://forms.gle/VKd49boqSDNUxzfK7" class="list-group-item list-group-item-action">Educação Física</a>
                 <a href="https://forms.gle/UVqGcrv2reLaq6k37" class="list-group-item list-group-item-action">Inglês</a>
             </div>
+            <h5>Atividade 17 ─ 08 de novembro de 2021</h5>
+            <div class="list-group">
+                <a href="https://forms.gle/SH6DxJDS4hm5uuao9" class="list-group-item list-group-item-action">Português / Matemática / Ciências </a>
+                <a href="https://forms.gle/NTg6RT7CV3HStF7z9" class="list-group-item list-group-item-action">Arte</a>
+                <a href="https://forms.gle/kR55XCETbncEWeuR6" class="list-group-item list-group-item-action">Educação Física</a>
+                <a href="https://forms.gle/QJxGrUfmy8rFaS949" class="list-group-item list-group-item-action">Inglês</a>
+            </div>
         </div>
         <div class="container">
             <h4 class="pmq-brand-font pmq-text-red">Atividades do 4º Ano ─ Ensino Fundamental (2020)</h4>
