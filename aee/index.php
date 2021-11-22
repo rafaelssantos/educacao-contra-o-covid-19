@@ -115,6 +115,10 @@ require_once('../conf/conf.php');
             <div class="list-group">
                 <a href="https://forms.gle/zujYEuZQiHDd99NJ6" class="list-group-item list-group-item-action">Acessar atividade</a>
             </div>
+            <h5>Atividade 18 ─ 22 de novembro de 2021</h5>
+            <div class="list-group">
+                <a href="https://forms.gle/wZMkwu3y5hXZMWHY8" class="list-group-item list-group-item-action">Acessar atividade</a>
+            </div>
         </div>
         <div class="container">
             <h4 class="pmq-brand-font pmq-text-red">Atividades do AEE (2020)</h4>

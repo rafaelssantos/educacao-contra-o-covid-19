@@ -166,6 +166,13 @@ include_once('../conf/conf.php');
                 <a href="https://forms.gle/6AQHG5HZ63d4qbqd6" class="list-group-item list-group-item-action">Educação Física</a>
                 <a href="https://forms.gle/8zPaqAqwgg4zxm2B8" class="list-group-item list-group-item-action">Inglês</a>
             </div>
+            <h5>Atividade 18 ─ 22 de novembro de 2021</h5>
+            <div class="list-group">
+                <a href="https://forms.gle/vqXYRTHJVfJ4waUm9" class="list-group-item list-group-item-action">Português / Matemática / Ciências </a>
+                <a href="https://forms.gle/CuNsuajPvj5pCNf67" class="list-group-item list-group-item-action">Arte</a>
+                <a href="https://forms.gle/aWr99qsUoCv6oPpT6" class="list-group-item list-group-item-action">Educação Física</a>
+                <a href="https://forms.gle/kxsHXiPNozoqrmVq5" class="list-group-item list-group-item-action">Inglês</a>
+            </div>
         </div>
         <div class="container">
             <h4 class="pmq-brand-font pmq-text-red">Atividades do 1º Ano ─ Ensino Fundamental (2020)</h4>

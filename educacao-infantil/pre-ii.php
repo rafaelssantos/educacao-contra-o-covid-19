@@ -112,7 +112,13 @@ include_once('../conf/conf.php');
                 <a href="https://forms.gle/VtDco79HJMQRghpM9" class="list-group-item list-group-item-action">Acessar atividade</a>
             </div>
             <h5>Atividade 17 ─ 08 de novembro de 2021</h5>
-            <a href="https://forms.gle/q9JMmKRcCt56s1sF8" class="list-group-item list-group-item-action">Acessar atividade</a>
+            <div class="list-group">
+                <a href="https://forms.gle/q9JMmKRcCt56s1sF8" class="list-group-item list-group-item-action">Acessar atividade</a>
+            </div>
+            <h5>Atividade 18 ─ 22 de novembro de 2021</h5>
+            <div class="list-group">
+                <a href="https://forms.gle/PoK6U56NEqJEcmcbA" class="list-group-item list-group-item-action">Acessar atividade</a>
+            </div>
         </div>
         <div class="container">
             <h4 class="pmq-brand-font pmq-text-red">Atividades do Pré II ─ Educação Infantil (2020)</h4>

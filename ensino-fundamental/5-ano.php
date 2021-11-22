@@ -166,6 +166,13 @@ include_once('../conf/conf.php');
                 <a href="https://forms.gle/w8ngRaF6SRQJ16zH9" class="list-group-item list-group-item-action">Educação Física</a>
                 <a href="https://forms.gle/8HEXVuDRGS1E5kim7" class="list-group-item list-group-item-action">Inglês</a>
             </div>
+            <h5>Atividade 18 ─ 22 de novembro de 2021</h5>
+            <div class="list-group">
+                <a href="https://forms.gle/Prg5Xyc6YytKrCKG7" class="list-group-item list-group-item-action">Português / Matemática / Ciências </a>
+                <a href="https://forms.gle/ptbF2zwbiNDVh9vS8" class="list-group-item list-group-item-action">Arte</a>
+                <a href="https://forms.gle/ft8eAmmEw1PUSn5u9" class="list-group-item list-group-item-action">Educação Física</a>
+                <a href="https://forms.gle/iufpKkQnV3EgpXJC7" class="list-group-item list-group-item-action">Inglês</a>
+            </div>
         </div>
         <div class="container">
             <h4 class="pmq-brand-font pmq-text-red">Atividades do 5º Ano ─ Ensino Fundamental (2020)</h4>
